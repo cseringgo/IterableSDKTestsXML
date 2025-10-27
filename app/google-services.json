@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944176136459",
+    "project_id": "iterablesdktestsxml",
+    "storage_bucket": "iterablesdktestsxml.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944176136459:android:c81219c98d4a84146b220e",
+        "android_client_info": {
+          "package_name": "com.example.iterablesdktestsxml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYiOEbZEACMREieMKxR1pZuiepsiLeko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

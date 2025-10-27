@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/updateProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update Iterable Profile"
+        android:layout_marginTop="48dp"/>
+
+    <Button
+        android:id="@+id/sendEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Custom Event"
+        android:layout_marginTop="8dp"/>
+
+<!--    <Button-->
+<!--        android:id="@+id/reloadInApp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Reload InApp"-->
+<!--        android:layout_marginTop="8dp"/>-->
+
+    <FrameLayout
+        android:id="@+id/embeddedMessageContainer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="48dp"/>
+
+    <Button
+        android:id="@+id/reloadEmbedded"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reload Embedded"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
